@@ -1,0 +1,7 @@
+$ pkg update && pkg upgrade
+$ pkg install python git
+$ git clone https://github.com/Sxp-ID/Brutal-SCW
+$ cd Brutal-SCW
+$ pip install -r requirements.txt
+$ ls
+$ python spam.py
